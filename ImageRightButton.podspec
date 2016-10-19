@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name     = 'ImageRightButton'
-  s.version  = '0.0.1'
+  s.version  = '0.0.3'
   s.platform = :ios, '7.0'
   s.license  = 'MIT'
   s.summary  = 'Give a button with titlelabel in left and image in right'
