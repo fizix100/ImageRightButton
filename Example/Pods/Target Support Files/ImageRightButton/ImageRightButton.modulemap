@@ -1,0 +1,6 @@
+framework module ImageRightButton {
+  umbrella header "ImageRightButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

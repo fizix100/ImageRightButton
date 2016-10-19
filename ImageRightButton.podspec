@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   				   image in right'
 
   s.frameworks   = 'UIKit'
-  s.source_files = 'ImageRightButton/Classes/*.{h,m}'
-  # s.preserve_paths  = 'Demo'
+  s.source_files = 'ImageRightButton/*.{h,m}'
+  s.preserve_paths  = 'Example'
   s.requires_arc = true
 end
